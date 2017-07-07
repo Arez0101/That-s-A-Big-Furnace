@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${modid}",
+  "name": "That's A Big Furnace",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["arez0101"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

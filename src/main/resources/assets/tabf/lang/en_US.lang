@@ -1,0 +1,5 @@
+tile.furnace_controller.name=Furnace Controller
+tile.furnace_wall.name=Furnace Wall
+tile.fuel_input.name=Fuel Input
+tile.smelting_input.name=Furnace Interface - Input
+tile.smelting_out.name=Furnace Interface - Output
