@@ -22,7 +22,7 @@ loadProperties()
 
 version = config.mod_version
 group = "net.arez0101.tabf"
-archivesBaseName = "BigFurnace"
+archivesBaseName = "That-s-A-Big-Furnace"
 
 def loadProperties() {
 	ext.configFile = file "build.properties"
