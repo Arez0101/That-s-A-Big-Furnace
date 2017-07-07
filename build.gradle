@@ -50,10 +50,4 @@ def loadProperties() {
 
 apply from: 'gradle/forge.gradle'
 apply from: 'gradle/dev.gradle'
-apply from: 'gradlew/deploy.grade'
-
-eclipse {
-	module {
-		sourceDirs += file('src/api/java')
-	}
-}
+apply from: 'gradle/deploy.gradle'
