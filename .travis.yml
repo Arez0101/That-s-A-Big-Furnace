@@ -5,7 +5,7 @@ notifications:
 env:
   global:
   - TERM=dumb
-install: ./gradlew setupCIWorkspace -S
+install: chmod +x ./gradlew setupCIWorkspace -S
 script: ./gradlew build -S
 
 cache:
