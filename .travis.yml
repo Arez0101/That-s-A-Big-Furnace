@@ -26,7 +26,7 @@ deploy:
   - provider: releases
     skip_cleanup: true
     api_key:
-      secure: 
+      secure: YfNS/OCjxoYYwv3c5bwVGNdwn4mMPM2WYCJH3KAfx2mKwLm2JWB5nKiDBJWD2xXbJifU4Unlw3DxDerNnNELbZvRolmMh5wvY9r2raystziv7yKNAfWbhG7FOkPWZwULSgb4CS1p8O5PNOc3BvYKmjQ0kDli1hs1XS+qFMRm7IX87TwEvXF8gRZ7M0SoliCCeeyJivP8GWnp6F4HgIHSbZYLEvSXndxYPptcuVNRNJZ2tKjHD8exGcR4sow5a5/0O84u6Xn4Mt4LFkoMWwUb1HrXGD0t9aNYzZufhVkgBVGEUdpSCEcqvQVTAMSFDqx/MrFKccFHTfd/cosp67BnjtvQvUQjZYBFwAEBLj6rMbZlvU6dpUG+P7cEYBitJhOnLAS0FzR9bEYwomWNBSST84+Sz/3jP3qlx0dp7mo/MoPXhbvkcwljfWn1rZ03Cg8/MA5gU1MUmOyFbe0t5pOrel/etV3P/qRI1aWV2pWlQbCZP2Dbs5H2fpQ6LF/HVmunbPQ/i+f7FwGLsHTz3tOUWNz754JZkHmkm/hwkEs/FeZRSDcZ03GFOWf2lkgdMGyrhdaGpfFavK5XGvF1PCCZTj4CMPCPHnTfN8hvudE5dYs5ZFCH9+3BQ2ILGsKhxmw3jjWje3F/IxX/IDjmCKZNBR0DJqSO5a2f0HmKb0thkdQ=
     on:
       all_branches: true
       repo: Arez0101/BigFurnace
